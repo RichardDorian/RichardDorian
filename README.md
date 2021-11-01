@@ -8,9 +8,6 @@
 
 - 🔭 I’m currently working on **[Solar Tweaks](https://github.com/Solar-Tweaks)**
 
-- 🌱 I’m currently learning **Firebase**
-
-
 - 👨‍💻 All of my projects are available at **[my GitHub](https://github.com/RichardDorian)**
 
 - 📫 How to reach me **richard.dorian@outlook.com**
