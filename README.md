@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **richard.dorian@outlook.com**
 
-- ⚡ Fun fact **I really like Minecraft**
+- ⚡ Fun fact **I'm better than my computer science teacher at coding**
 
 ## 🚀 Languages and Tools:
 
