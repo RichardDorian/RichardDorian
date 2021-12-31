@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **richard.dorian@outlook.com**
 
-- ⚡ Fun fact **I'm better than my computer science teacher at coding**
+- 💬 Citation I like **You're the one constant in a sea of variables.**
 
 ## 🚀 Languages and Tools:
 
