@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **[Solar Tweaks](https://github.com/Solar-Tweaks)**
 
-- 👨‍💻 All of my projects are available at **[my GitHub](https://github.com/RichardDorian)**
+- 👨‍💻 All my projects are available on **[my GitHub](https://github.com/RichardDorian)**
 
 - 📫 How to reach me **richard.dorian@outlook.com**
 
-- 💬 Citation I like **You're the one constant in a sea of variables.**
+- 💬 Citation I like **when you find a good move, find a better one** - Mr. Robot 🤖
 
 ## 🚀 Languages and Tools:
 
