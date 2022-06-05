@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hi I'm RichardDorian</h1>
-<h3 align="center">I'm a young JavaScript developper</h3>
+<h3 align="center">
+    I'm a young JavaScript developper
+    <br>
+    <br>
+    <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/690835131275018270"></a>
+</h3>
 
 
 ## 🙋‍♂️ About Me
