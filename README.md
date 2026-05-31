@@ -1,7 +1,17 @@
 Hello there 👋
 
-- ✨ Interested in: Web Technologies, 3D rendering, Minecraft, Very Low Level Programming
-- 🎗️ Familiar with: JavaScript, TypeScript, HTML, CSS, SCSS, Electron, Tauri, Neutralino, SolidJS, VueJS, NodeJS, Deno, Python, Git & GitHub
-- 🛠️ Working on: A CLI tool for controlling the backlight of Linux devices in Go, a remake of r/place for a school project
-- 🎓 Learning: Kubernetes, Helm, Kustomize & FluxCD
+- ✨ Interested in: Very Low Level & System Programming, Web Technologies, Video Streaming & Minecraft
+- 🎗️ Familiar with:
+  - JavaScript, TypeScript, HTML, CSS, Tailwind
+  - SolidJS, VueJS, React
+  - NodeJS, Deno, Python
+  - Electron, Tauri, Neutralino
+  - Git, GitHub, GitLab, Gitea & Forgejo
+  - Go, Rust
+  - Kubernetes, Helm, Kustomize, ArgoCD & Flux
+- 🛠️ Working on:
+  - A CLI tool for controlling the backlight of Linux devices in Go
+  - A PaaS solution in Go for a school project
+  - A clone of Kubernetes in Rust for a school project
+- 🎓 Learning: Scaleway APIs & Neovim
 - 📩 Contact me at richard.dorian@outlook.com
