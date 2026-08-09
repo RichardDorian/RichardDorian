@@ -12,6 +12,7 @@ Hello there 👋
 - 🛠️ Working on:
   - A CLI tool for controlling the backlight of Linux devices in Rust
   - [Barenetes](https://github.com/do-2k25-28/Barenetes), a clone of Kubernetes in Rust for a school project
-  - A cloud native Netflix clone with on-demand transcoding capabilities
+  - Omni, a multi-purpose self-hostable stack allowing organization to collaborate
+  - An on demand video streaming service, designed for lightweight and distributed infrastructure with tailor made transcoding implementation for resource constrained hardware
 - 🎓 Learning: Scaleway APIs & Neovim
 - 📩 Contact me at richard.dorian@outlook.com
