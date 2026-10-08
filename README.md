@@ -15,4 +15,4 @@ Hello there 👋
   - Omni, a multi-purpose self-hostable stack allowing organization to collaborate
   - An on demand video streaming service, designed for lightweight and distributed infrastructure with tailor made transcoding implementation for resource constrained hardware
 - 🎓 Learning: Scaleway APIs & Neovim
-- 📩 Contact me at richard.dorian@outlook.com
+- 📩 Contact me at contact@drichard.dev
